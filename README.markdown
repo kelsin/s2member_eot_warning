@@ -1,7 +1,7 @@
 # s2member EOT Warning
 
 This is a wordpress plugin that requires the [s2member plugin](http://wordpress.org/extend/plugins/s2member/).
-This plugin adds a wp-cron job that sends an email reminder when the EOT date is coming up.o
+This plugin adds a wp-cron job that sends an email reminder when the EOT date is coming up.
 
 ## Options
 
