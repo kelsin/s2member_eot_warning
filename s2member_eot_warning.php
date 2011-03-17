@@ -75,5 +75,5 @@ function unset_s2member_eot_warning_options() {
 }
 
 register_activation_hook(__FILE__, 'set_s2member_eot_warning_options');
-unregister_activation_hook(__FILE__, 'unset_s2member_eot_warning_options');
+register_deactivation_hook(__FILE__, 'unset_s2member_eot_warning_options');
 ?>
